@@ -1,2 +1,2 @@
-# lexperinc 
+# lexperinc
 Lexperinc projesi 
