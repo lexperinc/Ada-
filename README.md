@@ -1,2 +1,2 @@
 # lexperinc 
-Created with GitHub Builder Pro 🚀
+Lexperinc projesi 
